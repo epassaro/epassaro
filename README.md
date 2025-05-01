@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a software developer and astronomy student at the National University of La Plata (UNLP), Argentina. I enjoy working on tools that support scientific research — especially when it involves automation, reproducibility, and open collaboration.
+
+Most of my open-source work has focused on scientific software for astrophysics, including continuous integration systems and packaging solutions. I’m particularly interested in Linux development, software distribution, and building reliable infrastructure for researchers.
+
+### 🔭 Areas of interest
+- Open-source scientific software
+- CI/CD and workflow automation
+- Software packaging
+- Linux tooling and development
+- Data science and machine learning
+
+### 🌐 Find me elsewhere
+- [Personal website](https://epassaro.github.io)
+- [LinkedIn profile](https://linkedin.com/in/epassaro)
+
+<br>
+
+Thanks for visiting! 😄
