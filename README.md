@@ -24,7 +24,7 @@ Most of my open-source work has focused on scientific software for astrophysics,
 - CI/CD and workflow automation
 - Software packaging
 - Linux tooling and development
-- Data science and machine learning
+- Machine Learning & AI
 
 ### 🌐 Find me elsewhere
 - [Personal website](https://epassaro.github.io)
