@@ -27,7 +27,7 @@ Most of my open-source work has focused on scientific software for astrophysics,
 - Machine Learning & AI
 
 ### 🌐 Find me elsewhere
-- [Personal website](https://epassaro.github.io)
+- [Personal website](https://epassaro.github.io) (currently offline)
 - [LinkedIn profile](https://linkedin.com/in/epassaro)
 
 <br>
